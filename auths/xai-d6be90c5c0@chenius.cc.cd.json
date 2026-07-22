@@ -1,0 +1,21 @@
+{
+  "type": "xai",
+  "auth_kind": "oauth",
+  "email": "d6be90c5c0@chenius.cc.cd",
+  "sub": "a14d70e0-8686-4507-8495-5a57013a89d1",
+  "access_token": "eyJ0eXAiOiJhdCtqd3QiLCJhbGciOiJFUzI1NiIsImtpZCI6Im9hdXRoMi1wcm9kdWN0aW9uLTIwMjYtMDItMTkifQ.eyJpc3MiOiJodHRwczovL2F1dGgueC5haSIsInN1YiI6ImExNGQ3MGUwLTg2ODYtNDUwNy04NDk1LTVhNTcwMTNhODlkMSIsImF1ZCI6ImIxYTAwNDkyLTA3M2EtNDdlYS04MTZmLTRjMzI5MjY0YTgyOCIsImV4cCI6MTc4NDc1MTYxMiwiaWF0IjoxNzg0NzMwMDEyLCJzY29wZSI6Im9wZW5pZCBwcm9maWxlIGVtYWlsIG9mZmxpbmVfYWNjZXNzIGdyb2stY2xpOmFjY2VzcyBhcGk6YWNjZXNzIGNvbnZlcnNhdGlvbnM6cmVhZCBjb252ZXJzYXRpb25zOndyaXRlIiwicHJpbmNpcGFsX3R5cGUiOiJVc2VyIiwicHJpbmNpcGFsX2lkIjoiYTE0ZDcwZTAtODY4Ni00NTA3LTg0OTUtNWE1NzAxM2E4OWQxIiwiY2xpZW50X2lkIjoiYjFhMDA0OTItMDczYS00N2VhLTgxNmYtNGMzMjkyNjRhODI4IiwianRpIjoiODNkZDY4MDctZmZlZi00NWZlLWJlZTYtMDkxYTU5YmU4ZDE0IiwidGVhbV9pZCI6IjAwYzQyMzk3LWI5M2ItNDYwZS1iNDFiLWE1YmFhZDczMzdkNiJ9.mn6o7O6fHSI7Hj9aUb1qH8rL-HhYgNdy1alpNr6oeY3AYa3hYJpYPYnAhoQZT9Sh0NvqukilDrXY2gDLNUm9Ug",
+  "refresh_token": "0HIBpYBb3HonsJLm4eveO-fyjJ2eFywtbgQHz-47swq4r4yU1fh74J4iu3kOW02V9bpKOYeAVK3I7JNWEXNW7A",
+  "id_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzI1NiIsImtpZCI6Im9hdXRoMi1wcm9kdWN0aW9uLTIwMjYtMDItMTkifQ.eyJpc3MiOiJodHRwczovL2F1dGgueC5haSIsInN1YiI6ImExNGQ3MGUwLTg2ODYtNDUwNy04NDk1LTVhNTcwMTNhODlkMSIsImF1ZCI6ImIxYTAwNDkyLTA3M2EtNDdlYS04MTZmLTRjMzI5MjY0YTgyOCIsImV4cCI6MTc4NDc1MTYxMywiaWF0IjoxNzg0NzMwMDEzLCJnaXZlbl9uYW1lIjoiVXNlciIsImZhbWlseV9uYW1lIjoiR3JvayIsImVtYWlsIjoiZDZiZTkwYzVjMEBjaGVuaXVzLmNjLmNkIiwiZW1haWxfdmVyaWZpZWQiOnRydWV9.5fCr60w2owtBc4sND0xai94VGAPvqdkC_6oFTljMzd4Oc3a1vVb_CSIkFafsyB_xkWYycdNurs29EGlz0vU77g",
+  "token_type": "Bearer",
+  "expires_in": null,
+  "expired": "2026-07-22T20:20:12Z",
+  "last_refresh": "2026-07-22T14:20:13Z",
+  "redirect_uri": "",
+  "token_endpoint": "https://auth.x.ai/oauth2/token",
+  "base_url": "https://cli-chat-proxy.grok.com/v1",
+  "disabled": false,
+  "headers": {
+    "User-Agent": "grok-cli",
+    "X-Client-Name": "grok-cli"
+  }
+}
